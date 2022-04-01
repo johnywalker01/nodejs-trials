@@ -1,4 +1,3 @@
 # nodejs-trials
 
-For understanding NodeJS Server
-Used some sample REST APIs
+For understanding NodeJS Server; Used some sample REST APIs
